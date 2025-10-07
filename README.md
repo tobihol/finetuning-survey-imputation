@@ -1,6 +1,6 @@
 # Learning from Convenience Samples: A Case Study on Fine-Tuning LLMs for Survey Non-response in the German Longitudinal Election Study
 
-<!-- Code for the paper TODO. -->
+Code for the paper (https://arxiv.org/abs/2509.25063).
 
 To setup the environment, install the uv package manager and run: 
 
